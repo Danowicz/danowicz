@@ -1,2 +1,2 @@
 Hello there,
-# I'm Alexander Danowicz ![hello](https://i.ibb.co/Qpw5PH7/ezgif-com-resize-1.gif)
+# I'm Alexander Danowicz ![hello](https://i.ibb.co/MRhJwnC/ezgif-com-resize-2.gif)
