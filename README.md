@@ -15,11 +15,13 @@ I’ve always been driven by the desire to create, when i was 5, after building 
 ### 🤹🏻   Skills
 Currently on a never-ending path of discovery, ranging from front-end development to UI / UX design.
 
-Front-end:
+**Front-end**
+
 | Javascript | CSS3 | SCSS | HTML5 |
 |------------|------|------|-------|
 
-UI / UX Design
+**UI / UX Design**
+
 | User research | Prototyping | Interface design |
 |---------------|-------------|------------------|
 </br>
