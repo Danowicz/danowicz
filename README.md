@@ -16,12 +16,27 @@ I’ve always been driven by the desire to create, when i was 5, after building 
 Currently on a never-ending path of discovery, ranging from front-end development to UI / UX design.
 
 
+
+
+
+
+
+
+<table>
+<tr><th>Front-end</th><th>Design</th></tr>
+<tr><td>
+
 | Javascript | CSS3 | SCSS | HTML5 |
 |------------|------|------|-------|
 
 
+</td><td>
+
 | User research | Prototyping | Interface design |
 |---------------|-------------|------------------|
+
+</td></tr> </table>
+
 </br>
 
 **Web is everywhere and everyone is on the web, things are changing and it is a pleasure to be part of it.**
