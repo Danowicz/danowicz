@@ -14,7 +14,9 @@ I’ve always been driven by the desire to create, when i was 5, after building 
 ##
 ### 🧰  Toolbox
 Currently on a never-ending path of discovery, ranging from front-end development to UI / UX design.
-* Javascript
+
+| Javascript | CSS3 | SCSS | HTML5 |
+|------------|------|------|-------|
 
 **Web is everywhere and everyone is on the web, things are changing and it is a pleasure to be part of it.**
 ___
