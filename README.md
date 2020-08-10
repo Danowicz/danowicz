@@ -20,7 +20,7 @@ Currently on a never-ending path of discovery, ranging from front-end developmen
 | Javascript | CSS3 | SCSS | HTML5 |
 |------------|------|------|-------|
 
-**UI / UX Design**
+**Design**
 
 | User research | Prototyping | Interface design |
 |---------------|-------------|------------------|
