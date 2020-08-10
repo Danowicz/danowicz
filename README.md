@@ -23,12 +23,12 @@ Currently on a never-ending path of discovery, ranging from front-end developmen
 
 
 <table>
-<tr><th>Front-end</th><th>Design</th></tr>
+<tr><th>Coding</th><th>Design</th></tr>
 <tr><td>
 
-| Javascript | CSS3 | SCSS | HTML5 |
-|------------|------|------|-------|
-| **ReactJS** |
+| Javascript | CSS3 | SCSS | HTML5 | **B.E.M.** | **Git** | **ReactJS** | 
+|------------|------|------|-------|------------|---------|-------------|
+
 
 
 </td><td>
