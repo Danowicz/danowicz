@@ -19,6 +19,6 @@ Currently on a never-ending path of discovery, ranging from front-end developmen
 |------------|------|------|-------|
 
 **Web is everywhere and everyone is on the web, things are changing and it is a pleasure to be part of it.**
-___
+
 
 
