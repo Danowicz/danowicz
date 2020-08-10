@@ -4,8 +4,9 @@ A Junior **Front-end Developer** passionate about **UI / UX Design**.
 </br>
 [![Twitter](https://briller.com.br/portfolio/icons/twitter.svg)](https://twitter.com/AlexDanowicz)
 [![Linkedin](https://briller.com.br/portfolio/icons/linkedin.svg)](https://linkedin.com/in/danowicz)
-[![Twitter](https://briller.com.br/portfolio/icons/twitter.svg)](https://twitter.com/AlexDanowicz)
-[![Twitter](https://briller.com.br/portfolio/icons/twitter.svg)](https://twitter.com/AlexDanowicz)
+[![Dev](https://briller.com.br/portfolio/icons/dev.svg)](https://dev.to/)
+[![Dribbble](https://briller.com.br/portfolio/icons/dribbble.svg)](https://dribbble.com/)
+[![Codepen](https://briller.com.br/portfolio/icons/codepen.svg)](https://codepen.io/)
 </br>
 ___
 
