@@ -2,7 +2,7 @@
 A Junior **Front-end Developer** passionate about **UI / UX Design**.
 </br>
 </br>
-![twitter](https://briller.com.br/portfolio/icons/codepen.svg)
+[![Twitter](https://briller.com.br/portfolio/icons/twitter.svg)](https://twitter.com/AlexDanowicz)
 </br>
 ___
 
