@@ -38,9 +38,15 @@ Currently on a never-ending path of discovery, ranging from front-end developmen
 
 </td></tr> </table>
 
+##
+</br>
+</br>
+
+
+
+![nessum dorma](https://media1.giphy.com/media/mi6DsSSNKDbUY/200.gif)
+</br>
 </br>
 
 **Web is everywhere and everyone is on the web, things are changing and it is a pleasure to be part of it.**
-
-
 
