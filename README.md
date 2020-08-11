@@ -35,8 +35,6 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 </td></tr> </table>
 
 ##
-</br>
-
 
 #### Feeling social?
 [![Twitter](https://briller.com.br/portfolio/icons/twitter.svg)](https://twitter.com/AlexDanowicz)  
