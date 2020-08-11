@@ -23,7 +23,7 @@ Currently on a never-ending path of discovery, ranging from front-end developmen
 
 
 <table>
-<tr><th>Coding</th><th>Design</th></tr>
+<tr><th>CODING</th><th>DESIGN</th></tr>
 <tr><td>
 
 | Javascript | CSS3 | SCSS | HTML5 | **BEM** | **Git** | **React** | 
