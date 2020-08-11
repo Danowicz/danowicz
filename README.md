@@ -41,9 +41,8 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 [![Linkedin](https://briller.com.br/portfolio/icons/linkedin.svg)](https://linkedin.com/in/danowicz)  
 [![Dev](https://briller.com.br/portfolio/icons/dev.svg)](https://dev.to/)  
 [![Dribbble](https://briller.com.br/portfolio/icons/dribbble.svg)](https://dribbble.com/)  
-[![Codepen](https://briller.com.br/portfolio/icons/codepen.svg)](https://codepen.io/)    
-
-  <a color="black" href="https://danowicz.dev">danowicz.dev<a/>
+[![Codepen](https://briller.com.br/portfolio/icons/codepen.svg)](https://codepen.io/)  
+[danowicz.dev](https://danowicz.dev)
 
 </br>
 
