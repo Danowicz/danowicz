@@ -36,7 +36,6 @@ Currently on a never-ending path of discovery, ranging from front-end developmen
 
 ##
 </br>
-</br>
 
 
 #### Feeling social?
