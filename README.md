@@ -42,9 +42,10 @@ Currently on a never-ending path of discovery, ranging from front-end developmen
 </br>
 </br>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/mi6DsSSNKDbUY/200.gif" />
+</p>
 
-
-![nessum dorma](https://media1.giphy.com/media/mi6DsSSNKDbUY/200.gif)
 </br>
 </br>
 
