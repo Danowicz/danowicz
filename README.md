@@ -8,7 +8,7 @@ I’ve always been driven by the desire to create, when i was 5, after building 
 💼  -  **Working at Briller as a Front-end developer**  </br></br>
 🌱  -  **Currently learning back-end development at IGTI Bootcamp**  </br></br>
 ##
-### 🤹🏻   Skills
+### // Skills
 Currently on a never-ending path of discovery, ranging from front-end development to UI / UX design.
 
 
