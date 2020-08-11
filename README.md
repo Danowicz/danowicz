@@ -43,7 +43,7 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 [![Dribbble](https://briller.com.br/portfolio/icons/dribbble.svg)](https://dribbble.com/)  
 [![Codepen](https://briller.com.br/portfolio/icons/codepen.svg)](https://codepen.io/)    
 
-  [danowicz.dev](https://www.danowicz.dev)
+  <a color="black" href="https://danowicz.dev">danowicz.dev<a/>
 
 </br>
 
