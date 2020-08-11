@@ -42,7 +42,7 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 [![Dev](https://briller.com.br/portfolio/icons/dev.svg)](https://dev.to/)  
 [![Dribbble](https://briller.com.br/portfolio/icons/dribbble.svg)](https://dribbble.com/)  
 [![Codepen](https://briller.com.br/portfolio/icons/codepen.svg)](https://codepen.io/)  
-[danowicz.dev](https://danowicz.dev)
+[contact@danowicz.dev](mailto:contact@danowicz.dev)
 
 </br>
 
