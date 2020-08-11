@@ -9,7 +9,7 @@ I’ve always been driven by the desire to create, when i was 5, after building 
 🌱  -  **Currently learning back-end development at IGTI Bootcamp**  </br></br>
 ##
 ### 🤹  Skills
-Currently on a never-ending path of discovery, ranging from **front-end development** to **UI / UX design**.
+Currently on a never-ending path of discovery, ranging from **Front-end development** to **UI / UX Design**.
 
 
 
