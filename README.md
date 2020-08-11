@@ -38,14 +38,9 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 
 </br>
 
-#### Feeling social?
+#### Feeling social?   [contact@danowicz.dev](mailto:contact@danowicz.dev)
 [![Twitter](https://briller.com.br/portfolio/icons/twitter.svg)](https://twitter.com/AlexDanowicz)  
 [![Linkedin](https://briller.com.br/portfolio/icons/linkedin.svg)](https://linkedin.com/in/danowicz)  
 [![Dev](https://briller.com.br/portfolio/icons/dev.svg)](https://dev.to/)  
 [![Dribbble](https://briller.com.br/portfolio/icons/dribbble.svg)](https://dribbble.com/)  
-[![Codepen](https://briller.com.br/portfolio/icons/codepen.svg)](https://codepen.io/)  </br></br>
-[contact@danowicz.dev](mailto:contact@danowicz.dev)
-
-</br>
-
-
+[![Codepen](https://briller.com.br/portfolio/icons/codepen.svg)](https://codepen.io/)
