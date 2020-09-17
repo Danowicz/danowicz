@@ -6,7 +6,7 @@ I’ve always been driven by the desire to create, when i was 5, after building 
 </br></br></br>
 🎓  **BSc Computer Science (2022).**  </br></br>
 💼  **Working at Briller as a Front-end developer.**  </br></br>
-🌱  **Currently learning back-end development at IGTI Bootcamp.**  </br></br>
+🌱  Currently taking the **Javascript: The Advanced Concepts course** by Andrei Neagoie  </br></br>
 ##
 ### 🤹  Skills
 Currently on a never-ending path of discovery, ranging from **Front-end development** to **UI / UX Design**.
