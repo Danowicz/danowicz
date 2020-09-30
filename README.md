@@ -23,7 +23,7 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 - CSS
 - SCSS 
 - HTML 
-- B.E.M.
+- BEM
 - Git
 
 
