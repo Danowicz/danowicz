@@ -12,14 +12,13 @@ I’ve always been driven by the desire to create, when i was 5, after building 
 Currently on a never-ending path of discovery, ranging from **Front-end development** to **UI / UX Design**.
 
 </br>
-
 <table>
 <tr><th>Coding</th><th>Design</th></tr>
 <tr><td>
   
 </br>
 
-- Javascript‎‎‎
+- Javascript  
 - CSS3 
 - SCSS 
 - HTML5 
@@ -36,8 +35,7 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 - Photoshop
 - User research
 - Prototyping
-- Interface design‎‎‎  
-
+- Interface design  
 </td></tr> </table>
 
 
