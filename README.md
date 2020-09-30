@@ -19,7 +19,7 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
   
 </br>
 
-- Javascript    
+- Javascript‎‎‎
 - CSS3 
 - SCSS 
 - HTML5 
@@ -36,7 +36,7 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 - Photoshop
 - User research
 - Prototyping
-- Interface design    
+- Interface design‎‎‎  
 
 </td></tr> </table>
 
