@@ -22,15 +22,23 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 <tr><th>Coding</th><th>Design</th></tr>
 <tr><td>
 
-| Javascript | CSS3 | SCSS | HTML5 | **BEM** | **Git** | **React** | 
-|------------|------|------|-------|------------|---------|--------|
-
+- Javascript 
+- CSS3 
+- SCSS 
+- HTML5 
+- BEM
+- Git
+- React
 
 
 </td><td>
-
-| User research | Prototyping | Interface design |
-|---------------|-------------|------------------|
+  
+- Adobe XD
+- Figma
+- Photoshop
+- User research
+- Prototyping
+- Interface design
 
 </td></tr> </table>
 
