@@ -27,6 +27,7 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 - Git
 - React
 
+</br>
 
 </td><td>
   
