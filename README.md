@@ -18,13 +18,14 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
   
 </br>
 
+- ReactJS
 - JavaScript   
 - CSS
 - SCSS 
 - HTML 
 - B.E.M.
 - Git
-- React
+
 
 </br>
 
