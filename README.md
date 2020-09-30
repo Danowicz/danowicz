@@ -8,7 +8,7 @@ I’ve always been driven by the desire to create, when i was 5, after building 
 💼  Working at Briller as a **Jr. Front-end developer.**  </br></br>
 🌱  Currently taking the **Javascript: The Advanced Concepts** course by Andrei Neagoie  </br></br>
 ##
-### 🤹  Skills
+### 🧰  Toolbox
 Currently on a never-ending path of discovery, ranging from **Front-end development** to **UI / UX Design**.
 
 </br>
