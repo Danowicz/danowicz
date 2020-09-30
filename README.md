@@ -16,6 +16,8 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 <table>
 <tr><th>Coding</th><th>Design</th></tr>
 <tr><td>
+  
+</br>
 
 - Javascript 
 - CSS3 
