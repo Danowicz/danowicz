@@ -18,7 +18,9 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
   
 </br>
 
-- ReactJS
+- Angular
+- TypeScript
+- Storybook
 - JavaScript   
 - CSS
 - SCSS 
