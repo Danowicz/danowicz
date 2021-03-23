@@ -1,5 +1,5 @@
 # Hello there, I'm Alexander Danowicz  
-A Junior **Front-end Developer** passionate about **UI / UX Design**.
+A **Front-end Developer** passionate about **UI / UX Design**.
 </br>
 
 I’ve always been driven by the desire to create, when i was 5, after building some lego pseudo-robot I always felt that I was building something big. Today at 23, this feeling persists, but now with web development. Using all my UX and Front-end knowledge not only to solve problems, but to help changing fundamentally how stuff works.
