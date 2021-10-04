@@ -50,9 +50,13 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 
 </td><td>
 # Design
+  
   • Adobe XD 
+  
   • Figma 
+  
   • Photoshop 
+  
   • UI
 </td></tr> </table>
 
