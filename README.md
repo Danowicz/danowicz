@@ -19,16 +19,26 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 </br>
 
 • Angular 2+ 
-• RxJS
-• NgRx 
-• Ionic 
-• TypeScript
-• JavaScript
-• Jasmine / Jest 
-• Storybook
-• Sass / CSS 
-• HTML • REST
-• Git 
+
+  • RxJS
+
+  • NgRx 
+
+  • Ionic 
+
+  • TypeScript
+
+  • JavaScript
+
+  • Jasmine / Jest 
+
+  • Storybook
+
+  • Sass / CSS 
+
+  • HTML • REST
+
+  • Git 
 
 • Agile 
 • B.E.M.
