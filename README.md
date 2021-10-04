@@ -43,17 +43,16 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 
 </td><td>
 # Design
-
-• Adobe XD 
-• Figma 
-• Photoshop 
-• UI
+  • Adobe XD 
+  • Figma 
+  • Photoshop 
+  • UI
 </td></tr> </table>
 
 
 </br>
 
-### Feeling social?   <p align="right"><a href="mailto:contact@danowicz.dev">contact@danowicz.dev<a/><p/>
+### Feeling social?   <p align="right"><a href="mailto:hello@danowicz.dev">hello@danowicz.dev<a/><p/>
 [![Twitter](https://briller.com.br/portfolio/icons/twitter.svg)](https://twitter.com/AlexDanowicz)  
 [![Linkedin](https://briller.com.br/portfolio/icons/linkedin.svg)](https://linkedin.com/in/danowicz)  
 <!--[![Dev](https://briller.com.br/portfolio/icons/dev.svg)](https://dev.to/)  
