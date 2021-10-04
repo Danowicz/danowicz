@@ -40,16 +40,20 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
 
   • Git 
 
-• Agile 
-• B.E.M.
-• TDD / BDD
-• Clean Code
-• Clean Architecture
+
+  • Agile 
+
+  • B.E.M.
+
+  • TDD / BDD
+
+  • Clean Code
+
+  • Clean Architecture
 
 </br>
 
 </td><td>
-# Design
   
   • Adobe XD 
   
