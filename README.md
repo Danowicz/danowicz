@@ -4,9 +4,9 @@ A **Front-end Developer** passionate about **UI / UX Design**.
 
 I’ve always been driven by the desire to create, when i was 5, after building some lego pseudo-robot I always felt that I was building something big. Today at 23, this feeling persists, but now with web development. Using all my UX and Front-end knowledge not only to solve problems, but to help changing fundamentally how stuff works.
 </br></br></br>
-🎓  BSc **Computer Science** (2022).  </br></br>
-💼  Working at Helpper as a **Front-end developer intern.**  </br></br>
-🌱  Currently taking the **Javascript: The Advanced Concepts** course by Andrei Neagoie  </br></br>
+🎓  BSc **Computer Science**.  </br></br>
+💼  Working at CI&T as a **Front-end Engineer**  </br></br>
+
 ##
 ### 🧰  Toolbox
 Currently on a never-ending path of discovery, ranging from **Front-end development** to **UI / UX Design**.
@@ -18,27 +18,36 @@ Currently on a never-ending path of discovery, ranging from **Front-end developm
   
 </br>
 
-- Angular
-- TypeScript
-- Storybook
-- JavaScript   
-- CSS
-- SCSS 
-- HTML 
-- BEM
-- Git
+• Angular 2+ 
+• RxJS
+• NgRx 
+• Ionic 
+• TypeScript
+• JavaScript
+• Jasmine / Jest 
+• Storybook
+• Sass / CSS 
+• HTML • REST
+• Git 
+
+• Agile 
+• B.E.M.
+• TDD / BDD
+• Clean Code
+• Clean Architecture
+
+
 
 
 </br>
 
 </td><td>
-  
-- Adobe XD
-- Figma
-- Photoshop
-- User research
-- Prototyping
-- Interface design   
+# Design
+
+• Adobe XD 
+• Figma 
+• Photoshop 
+• UI
 </td></tr> </table>
 
 
